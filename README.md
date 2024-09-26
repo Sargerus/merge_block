@@ -1,3 +1,3 @@
-Проект был создан за 3 дня. Я хотел посмотреть, как будет работать проект, если не полагаться на инициализацию zenject, 
-а попробовать явно вызывать все инициализаторы. Проект был "подрезан", некоторогго функционала не хватает, но в целом
-смысл проекта и его логику работы понять лекго.
+The project was created in 3 days. I wanted to see how the project would work without relying on Zenject initialization and instead try to explicitly call all the initializers. 
+
+Some project funtionality was cut, but overall, the project's purpose and its working logic are easy to understand.
